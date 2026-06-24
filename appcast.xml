@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+    <title>Bu ilovaning yangi update</title>
+        <description>Bu ilovani yangilash uchun shu ishlatiladi</description>
+        <language>uz</language>
+
+        <item>
+            <title>Yangi 9 versiya bu bizning eng yangi versiyamiz</title>
+
+            <enclosure url ="https://play.google.com/store/apps/details?id=chat.sud.uz"
+                sparkle:version ="0.3.1"
+                sparkle:os = "android"
+                sparkle:shortVersionString = "0.3.1"
+                type="application/octet-stream"
+            />
+            <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags>
+        </item>
+    </channel>
+</rss>
