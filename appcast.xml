@@ -9,9 +9,9 @@
             <title>Yangi 9 versiya bu bizning eng yangi versiyamiz</title>
 
             <enclosure url ="https://play.google.com/store/apps/details?id=chat.sud.uz"
-                sparkle:version ="0.3.1"
+                sparkle:version ="0.3.2"
                 sparkle:os = "android"
-                sparkle:shortVersionString = "0.3.1"
+                sparkle:shortVersionString = "0.3.2"
                 type="application/octet-stream"
             />
         </item>
